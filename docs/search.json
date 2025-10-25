@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "vita.html",
+    "href": "vita.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My CV can be viewed and downloaded below. This page may not display on mobile, click here CV\n\n\n\n\nCV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "A picture of Luke Bellinger in a suit (uncommon).\n\n\nMy name is Luke Bellinger and I am a senior at the University of Texas at Austin (Hook ’em Horns!) majoring in Government and Humanities Honors, with minors in Religious Studies and Statistics/Data Sciences. I am aspiring political science researcher interested in identity politics, religion, political behavior, (mostly in America), surveys, and epistemology. I work with Eric McDaniel, Chris Wlezien, Angie Gutierrez, and Jamein Cunningham (economist) at UT-Austin. I am a recent alum of the Ralph Bunche Summer Institute. I assume you have come to this website through my CV or from one of my papers. The following is an explanation of my research and interests, hopefully to impress you so that I can get in to grad school. Thank you for taking the time to read this. (Much of this information is parroted on the CV)\nMy current independent research falls into two main streams: identity politics and gerrymandering.\nI have written three working papers on the interaction of race and religion on political behavior, considering racial homophily in churches (I consider this my least polished paper), Latino religiosity, and political socialization in religious communities in America (this is my working honors thesis).\nI have written three working papers on gerrymandering, first demonstrating that Latinos are unable to flip any portion of the Texas state government, second arguing that Texas’ plan C2193 map is likely not discriminatory under the VRA, (this paper will be updated with the new map), and third demonstrating that people in gerrymandered areas do not lose trust in government.\nPlease note that these working papers will likely be entirely rewritten in grad school.\nMy non-independent research involves two projects: the creation of crime trends reports for Texas cities (I am the team lead, supervised by Jamein Cunningham, with Armaan Christ and Elif Panaik), and creating an open-source LLM wrapper to clean and code qualitative and health data (with Danny Cowser).\nMy research assistant work includes interviews (Eric McDaniel), text cleaning for textual embeddings (Cheyenne Lee), election data collection (Ballotpedia), and AI engineering (Danny Cowser, same project as before). I am also set to be hired to do data odd jobs for Chris Wlezien.\nMy teaching assistant work in the Statistics/Data Sciences department includes co-running an R-based lab session, holding office hours, answering student questions about R, and grading.\nI am highly proficient in \\(\\texttt{R}\\), moderately proficient in \\(\\texttt{python}\\) and \\(\\mathrm{\\LaTeX}\\), and I have been trained in qualitative and GIS methods. I have received various grants and awards for undergraduate research and conference travel, totaling $1,850.\nPlease admit me to your program."
+  }
+]
