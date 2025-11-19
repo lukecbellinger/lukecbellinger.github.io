@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e9dc2ae3566e43fe1e0691a251a7460c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4dc7012b71c521c53cca22602a9c0051.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -128,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -149,22 +178,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My working papers can be viewed and downloaded below. This page may not display on mobile, click here <a href="https://utexas.box.com/s/gqh3ibufyr514baeknxrwvqd4wkyxid3">working papers</a> the code’s not ready yet.</p>
+<p>My working papers can be viewed and downloaded below. This page may not display on mobile, click <a href="https://utexas.box.com/s/gqh3ibufyr514baeknxrwvqd4wkyxid3">here</a> the code’s not ready yet.</p>
 <section id="thesis" class="level1">
 <h1>thesis</h1>
 <p>Four Vignettes on Race and Religion and Politics <a href="lukecbellinger.github.io/thesis" width="60%" height="1000">[pdf]</a></p>
 </section>
-<section id="papers" class="level1 page-columns page-full">
+<section id="papers" class="level1">
 <h1>papers</h1>
-<div class="column-screen">
-<p><embed src="pdfs/Latino_religiosity_and_politics-2.pdf" style="width:60.0%" height="1000"></p>
-</div>
-<div class="column-screen">
-<p><embed src="pdfs/paper-4.pdf" style="width:60.0%" height="1000"></p>
-</div>
-<div class="column-screen">
-<p><embed src="pdfs/Final_Paper-4 (1).pdf" style="width:60.0%" height="1000"></p>
-</div>
+<p><span class="math inline">\(\textit{Posibilidades:}\)</span> An Analysis of Hispanic Voting Power in Texas <a href="lukecbellinger.github.io/hispanic_redistricting" width="60%" height="1000">[pdf]</a></p>
+<p><span class="math inline">\(\textit{¿Quieres ir a misa?:}\)</span> Religious Change and Latino Party Identification <a href="lukecbellinger.github.io/latino_religiosity" width="60%" height="1000">[pdf]</a></p>
+<p>A Texan VRA Claim: Race, Party, and Maps covered in Salamanders <a href="lukecbellinger.github.io/texan_vra" width="60%" height="1000">[pdf]</a></p>
+<p>The Effect of Gerrymandering on Trust in Government <a href="lukecbellinger.github.io/gerrymandering_trust" width="60%" height="1000">[pdf]</a></p>
+<p>Àmerican Datasets, Minority Research <a href="lukecbellinger.github.io/american_datasets" width="60%" height="1000">[pdf]</a></p>
 
 
 </section>

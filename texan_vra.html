@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hello! – Luke Bellinger</title>
+<title>Texan VRA – Luke Bellinger</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,35 +70,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -122,7 +93,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -146,15 +117,21 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#color-version" id="toc-color-version" class="nav-link active" data-scroll-target="#color-version">color version</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hello!</h1>
+<h1 class="title">Texan VRA</h1>
 </div>
 
 
@@ -171,26 +148,14 @@ window.Quarto = {
 </header>
 
 
-
-<div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/IMG_1368.jpeg" class="img-fluid figure-img"></p>
-<figcaption>A picture of Luke Bellinger in a suit (uncommon).</figcaption>
-</figure>
+<section id="color-version" class="level1 page-columns page-full">
+<h1>color version</h1>
+<div class="column-page-inset">
+<p><embed src="pdfs/paper-4.pdf" style="width:60.0%" height="1000"></p>
 </div>
-</div></div><p>My name is Luke Bellinger and I am a senior at the University of Texas at Austin (Hook ’em Horns!) majoring in Government and Humanities Honors, with minors in Religious Studies and Statistics/Data Sciences. I am aspiring political science researcher interested in identity politics, religion, political behavior, (mostly in America), surveys, and epistemology. I work with Eric McDaniel, Chris Wlezien, Angie Gutierrez, and Jamein Cunningham (economist) at UT-Austin. I am a recent alum of the Ralph Bunche Summer Institute. I assume you have come to this website through my CV or from one of my papers. The following is an explanation of my research and interests, hopefully to impress you so that I can get in to grad school. Thank you for taking the time to read this. (Much of this information is parroted on the CV).</p>
-<p>My current independent research falls into two main streams: identity politics and gerrymandering.</p>
-<p>I have written three working papers on the interaction of race and religion on political behavior, considering racial homophily in churches (I consider this my least polished paper), Latino religiosity, and political socialization in religious communities in America (this is my working honors thesis).</p>
-<p>I have written three working papers on gerrymandering, first demonstrating that Latinos are unable to flip any portion of the Texas state government, second arguing that Texas’ plan C2193 map is likely not discriminatory under the VRA, (this paper will be updated with the new map), and third demonstrating that people in gerrymandered areas do not lose trust in government.</p>
-<p>Please note that these working papers will likely be entirely rewritten in grad school.</p>
-<p>My non-independent research involves two projects: the creation of crime trends reports for Texas cities (I am the team lead, supervised by Jamein Cunningham, with Armaan Christ and Elif Panaik), and creating an open-source LLM wrapper to clean and code qualitative and health data (with Danny Cowser).</p>
-<p>My research assistant work includes interviews (Eric McDaniel), text cleaning for textual embeddings (Cheyenne Lee), election data collection (Ballotpedia), and AI engineering (Danny Cowser, same project as before). I am also set to be hired to do data odd jobs for Chris Wlezien.</p>
-<p>My teaching assistant work in the Statistics/Data Sciences department includes co-running an R-based lab session, holding office hours, answering student questions about R, and grading.</p>
-<p>I am highly proficient in <span class="math inline">\(\texttt{R}\)</span>, moderately proficient in <span class="math inline">\(\texttt{python}\)</span> and <span class="math inline">\(\mathrm{\LaTeX}\)</span>, and I have been trained in qualitative and GIS methods. I have received various grants and awards for undergraduate research and conference travel, totaling $1,850.</p>
-<p>Please admit me to your program.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
