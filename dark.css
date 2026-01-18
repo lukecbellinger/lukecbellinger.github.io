@@ -1,0 +1,8 @@
+html[data-bs-theme="dark"] {
+  --bs-body-bg: #222;
+  --bs-body-color: #fff;
+}
+
+html[data-bs-theme="dark"] body {
+  background-image: none;
+}

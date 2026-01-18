@@ -14,41 +14,6 @@
     "text": "This page may not display on mobile. Click here"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "A picture of Luke Bellinger in a suit (uncommon). Taken at APSA 2025 in Vancouver by Paige Gonzales.\n\n\nMy name is Luke Bellinger and I am a senior at the University of Texas at Austin (Hook ’em Horns!) majoring in Government and Humanities Honors, with minors in Religious Studies and Statistics/Data Sciences. I am aspiring political science researcher interested in identity politics, religion, political behavior, (mostly in America), surveys, and epistemology. I work with Eric McDaniel, Chris Wlezien, Angie Gutierrez, and Jamein Cunningham (economist) at UT-Austin. I am a recent alum of the Ralph Bunche Summer Institute. I assume you have come to this website through my CV or from one of my papers. The following is an explanation of my research and interests, hopefully to impress you so that I can get in to grad school. Thank you for taking the time to read this.\nMy current independent research falls into two main streams: identity politics and gerrymandering.\nI have written three working papers on the interaction of race and religion on political behavior, considering racial homophily in churches (I consider this my least polished paper), Latino religiosity, and political socialization in religious communities in America (this is my working honors thesis).\nI have written three working papers on gerrymandering, first demonstrating that Latinos are unable to flip any portion of the Texas state government, second arguing that Texas’ plan C2193 map is likely not discriminatory under the VRA, (this paper will be updated with the new map), and third demonstrating that people in gerrymandered areas do not lose trust in government.\nPlease note that these working papers will likely be entirely rewritten in grad school.\nMy non-independent research involves two projects: the creation of crime trends reports for Texas cities (supervised by Jamein Cunningham, with Armaan Christ and Elif Panaik), and creating an open-source LLM wrapper to clean and code qualitative and health data (with Danny Cowser).\nMy research assistant work includes interviews (Eric McDaniel), text cleaning for textual embeddings (Cheyenne Lee), election data collection (Ballotpedia), and AI engineering (Danny Cowser, same project as before). I am also set to be hired to do data odd jobs for Chris Wlezien.\nMy teaching assistant work in the Statistics/Data Sciences department includes co-running an R-based lab session, holding office hours, answering student questions about R, and grading.\nI am highly proficient in \\(\\textsf{R}\\), moderately proficient in \\(\\texttt{python}\\) and \\(\\mathrm{\\LaTeX}\\), and I have been trained in qualitative and GIS methods. I have received various grants and awards for undergraduate research and conference travel, totaling $3,850.\nPlease admit me to your program."
-  },
-  {
-    "objectID": "gerrymandering_trust.html",
-    "href": "gerrymandering_trust.html",
-    "title": "Gerrymandering and Trust in Gov",
-    "section": "",
-    "text": "This page may not display on mobile. Click here"
-  },
-  {
-    "objectID": "american_datasets.html",
-    "href": "american_datasets.html",
-    "title": "American Datasets, Minority Research",
-    "section": "",
-    "text": "This page may not display on mobile. Click here"
-  },
-  {
-    "objectID": "hispanic_redistricting.html",
-    "href": "hispanic_redistricting.html",
-    "title": "Hispanic Redistricting",
-    "section": "",
-    "text": "This page may not display on mobile. Color version here and print version here\n\ncolor version\n\n\n\n\n\nprint version\n\n\n\n\n\nsupplemental material and code snippets"
-  },
-  {
-    "objectID": "irreligion_districts.html",
-    "href": "irreligion_districts.html",
-    "title": "Irreligion_districts",
-    "section": "",
-    "text": "This page may not display on mobile. Click here\nArcGIS Story Map"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -68,6 +33,48 @@
     "title": "Research",
     "section": "Papers",
     "text": "Papers\nPosibilidades: An Analysis of Hispanic Voting Power in Texas\n\n[link to project page]\nfull replication (box), 11 gb\npartial replication (github), 300 mb\n\n¿Quieres ir a misa?: Religious Change and Latino Party Identification [link]\nIs Irreligion correlated with increase in Leftism? Evidence from 23,000 Constituency-Years [link]\nA Texan VRA Claim: Race, Party, and Maps covered in Salamanders [link]\nThe Effect of Gerrymandering on Trust in Government [link]\nAmerican Datasets, Minority Research [link]"
+  },
+  {
+    "objectID": "irreligion_districts.html",
+    "href": "irreligion_districts.html",
+    "title": "Irreligion_districts",
+    "section": "",
+    "text": "This page may not display on mobile. Click here\nArcGIS Story Map"
+  },
+  {
+    "objectID": "hispanic_redistricting.html",
+    "href": "hispanic_redistricting.html",
+    "title": "Hispanic Redistricting",
+    "section": "",
+    "text": "This page may not display on mobile. Color version here and print version here\n\ncolor version\n\n\n\n\n\nprint version\n\n\n\n\n\nsupplemental material and code snippets"
+  },
+  {
+    "objectID": "american_datasets.html",
+    "href": "american_datasets.html",
+    "title": "American Datasets, Minority Research",
+    "section": "",
+    "text": "This page may not display on mobile. Click here"
+  },
+  {
+    "objectID": "gerrymandering_trust.html",
+    "href": "gerrymandering_trust.html",
+    "title": "Gerrymandering and Trust in Gov",
+    "section": "",
+    "text": "This page may not display on mobile. Click here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "A picture of Luke Bellinger in a suit (uncommon). Taken at APSA 2025 in Vancouver by Paige Gonzales.\n\n\n\n\n\n\nA picture of Luke Bellinger being swaggy wearing MIT political science branded sunglasses (very common). Taken at APSA 2025 in Vancouver by Paige Gonzales.\n\n\n\nMy name is Luke Bellinger and I am a senior at the University of Texas at Austin (Hook ’em Horns!) majoring in Government and Humanities Honors, with minors in Religious Studies and Statistics/Data Sciences. I am aspiring political science researcher interested in identity politics, religion, political behavior, (mostly in America), surveys, and epistemology. I work with Eric McDaniel, Chris Wlezien, Angie Gutierrez, and Jamein Cunningham (economist) at UT-Austin. I am a recent alum of the Ralph Bunche Summer Institute. I assume you have come to this website through my CV or from one of my papers. The following is an explanation of my research and interests, hopefully to impress you so that I can get in to grad school. Thank you for taking the time to read this.\nMy current independent research falls into two main streams: identity politics and gerrymandering.\nI have written three working papers on the interaction of race and religion on political behavior, considering racial homophily in churches (I consider this my least polished paper), Latino religiosity, and political socialization in religious communities in America (this is my working honors thesis).\nI have written three working papers on gerrymandering, first demonstrating that Latinos are unable to flip any portion of the Texas state government, second arguing that Texas’ plan C2193 map is likely not discriminatory under the VRA, (this paper will be updated with the new map), and third demonstrating that people in gerrymandered areas do not lose trust in government.\nPlease note that these working papers will likely be entirely rewritten in grad school.\nMy non-independent research involves two projects: the creation of crime trends reports for Texas cities (supervised by Jamein Cunningham, with Armaan Christ and Elif Panaik), and creating an open-source LLM wrapper to clean and code qualitative and health data (with Danny Cowser).\nMy research assistant work includes interviews (Eric McDaniel), text cleaning for textual embeddings (Cheyenne Lee), election data collection (Ballotpedia), and AI engineering (Danny Cowser, same project as before). I am also set to be hired to do data odd jobs for Chris Wlezien.\nMy teaching assistant work in the Statistics/Data Sciences department includes co-running an R-based lab session, holding office hours, answering student questions about R, and grading.\nI am highly proficient in \\(\\textsf{R}\\), moderately proficient in \\(\\texttt{python}\\) and \\(\\mathrm{\\LaTeX}\\), and I have been trained in qualitative and GIS methods. I have received various grants and awards for undergraduate research and conference travel, totaling $3,850.\nPlease admit me to your program."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Statement",
+    "section": "",
+    "text": "I consider myself to be a teacher-scholar and view the principal raison d’être of studying and creating knowledge about a subject at a high level to be passing that knowledge on to others. The traditionally understood dual burdens upon graduate students and professors of research and teaching are inseparable—without teaching the next generation, research dies. Especially in social science, where we do not, for example, cure cancers or capture atmospheric carbon, the substantive output of much social science research is the creation of a more complete view on how people relate to each other. I do not view this output as necessarily less important than the outputs of other fields, however, because of the nature of this output, much social science research only becomes impactful if it is readily disseminated and understood by the body politic of our society. Put more simply, most social science research becomes useless if its conclusions are not taught to others, especially the youth. Furthermore, as mentioned before, if knowledge about the tools of knowledge-creation and the yearning for the creation of knowledge in any field are not passed on to subsequent generations, the study of that field becomes increasingly untenable. The students, without which the university becomes meaningless, are the principal foci of any classroom, not myself or any instructor.\nMy personal philosophy towards teaching styles is principally advised by two teaching experiences: teaching English conversation to Cuban and Venezuelan refugees in elementary school, and teaching applied statistics and programming in R to college students at the University of Texas. In both of these cases, my students have come from varied backgrounds in society and I am very comfortable teaching any students who come to me regardless of where they come from. From these experiences, I have learned that different tools of teaching may be necessary for different subjects and students. With advanced natural sciences undergraduates, I mainly advised my students on broad ideas and helped fix R errors, while supporting students achieve their own goals in independent projects, both in lab sessions and frequent office hours. With elementary school-aged students, I taught through games that helped build vocabulary and by incorporating more English speech in Spanish conversation over time as students became more comfortable with the language. The subject of the discussions were meant to engage the kids’ imagination, by asking them about their dreams and futures, and asking what they loved about the previous places where they lived. During my undergraduate education, I have also experienced both discussion-based and instruction-based teaching and have also preferred different styles depending on the subject matter. Generally, when teaching more technical subjects, I use more direct instruction methods while making sure students gain hands-on experience in the subject matter, especially with coding. When teaching less technical subjects, I use discussion, dialogue, and debate to ignite the minds of students so that they more closely engage with the course material. Throughout both teaching experiences, I learned that fostering the innate inquisitiveness of students is a very important aspect of teaching.\nTo conclude, I center the inquisitiveness of students in my classroom instruction and allow students the freedom to explore subjects broadly. I try to engage their imaginations with discussion while also more directly overseeing technical subjects. As much as possible, I try to engage that hunger for knowledge that exists within all students and manipulate it to make students want to learn. I love teaching, and want to help people learn, especially about social science, for the rest of my life."
   },
   {
     "objectID": "thesis.html",
